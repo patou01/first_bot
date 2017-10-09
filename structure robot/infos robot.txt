@@ -1,0 +1,19 @@
+A lois sur le robot:
+servo: servo lui-meme, vis, pas la croix !
+capteurs: alimentation des IR.
+
+
+
+
+
+servo: 
+	UP = 10 degrés
+	DOWN = 75
+	SERVO = 0 car PB(0) (on utilise la routine gerant les servos sur port B)
+	Pourquoi il remonte ?!
+	
+capteurs:
+	méthode peu esthétique.
+	Faire les seuils des capteurs
+	
+	
